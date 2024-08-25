@@ -10,5 +10,9 @@ Decrement loop
 +25[-5>+<]>.
 Free memory
 [-]
+New line
++10.[-]
+Dump stack
+! 
 Result for interpreter is ofcourse 42:
 +42
