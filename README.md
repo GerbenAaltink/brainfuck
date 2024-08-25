@@ -4,7 +4,7 @@ My brainfuck interpreter.
 
 
 ## Description
-
+```
 there are cells [-1][0][0]
 you can change value using + and -
 you can navigate trough cells using < and > 
@@ -16,3 +16,4 @@ examples:
  +>+<[.>]  print 10
  >+9+.     print new line. "." is used for printing
  +[-,.[-]+] is like the cat application. "," is key input "." is print current cell
+```
